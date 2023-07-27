@@ -36,7 +36,7 @@ This is a simple currency converter web application built using HTML, CSS, and J
 
 ## Credits
 
-This app was built by [VinayagaMoorthi.S](https://github.com/vinayagamoorthi-srinivasan) and uses the [Exchange Rates API](https://exchangeratesapi.io/) to retrieve real-time exchange rates.
+This app was built by [Vinodkumar.ks](https://github.com/100VINODKUMAR) and uses the [Exchange Rates API](https://exchangeratesapi.io/) to retrieve real-time exchange rates.
 
 ## License
 
